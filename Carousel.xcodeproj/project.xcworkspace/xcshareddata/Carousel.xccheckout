@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23708897-566C-4E33-BE36-EE26F3F068ED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Carousel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DFDA88266A536D86EFFB95F0D2FF2E4FE53CD9D6</key>
+		<string>github.com:jamesdeangelis/Codepath-week-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Carousel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DFDA88266A536D86EFFB95F0D2FF2E4FE53CD9D6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jamesdeangelis/Codepath-week-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DFDA88266A536D86EFFB95F0D2FF2E4FE53CD9D6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFDA88266A536D86EFFB95F0D2FF2E4FE53CD9D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Carousel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
