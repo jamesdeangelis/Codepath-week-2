@@ -28,6 +28,5 @@ _Optional_
 Image Timeline
 
 **Walkthrough of all user stories:**
-Walkthrough of all user stories:
 
 ![Video Walkthrough](walkthrough.gif)
