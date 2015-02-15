@@ -93,10 +93,6 @@
                                 <rect key="frame" x="0.0" y="69" width="320" height="70"/>
                                 <autoresizingMask key="autoresizingMask"/>
                             </imageView>
-                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" id="8Pj-Wg-7bl">
-                                <rect key="frame" x="150" y="269" width="20" height="20"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </activityIndicatorView>
                             <view contentMode="scaleToFill" id="cjw-Zq-SEk">
                                 <rect key="frame" x="-20" y="145" width="360" height="141"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -159,7 +155,6 @@
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                     <size key="freeformSize" width="320" height="568"/>
                     <connections>
-                        <outlet property="activityIndicatorView" destination="8Pj-Wg-7bl" id="yVv-NJ-Z0s"/>
                         <outlet property="buttonBlock" destination="0GI-kv-Ybw" id="BBO-8S-RRu"/>
                         <outlet property="emailInput" destination="WhH-5g-hZO" id="nqo-C0-yvT"/>
                         <outlet property="loginBlock" destination="cjw-Zq-SEk" id="deI-9F-rSD"/>

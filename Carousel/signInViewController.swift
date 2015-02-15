@@ -11,7 +11,6 @@ import UIKit
 class signInViewController: UIViewController {
     @IBOutlet weak var emailInput: UITextField!
     @IBOutlet weak var passwordInput: UITextField!
-    @IBOutlet weak var activityIndicatorView: UIActivityIndicatorView!
     @IBOutlet weak var buttonBlock: UIView!
     @IBOutlet weak var loginBlock: UIView!
     
@@ -23,7 +22,6 @@ class signInViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        activityIndicatorView.hidden = true
         NSNotificationCenter.defaultCenter().addObserver(self, selector: "keyboardWillShow:", name: UIKeyboardWillShowNotification, object: nil)
         NSNotificationCenter.defaultCenter().addObserver(self, selector: "keyboardWillHide:", name: UIKeyboardWillHideNotification, object: nil)
         
